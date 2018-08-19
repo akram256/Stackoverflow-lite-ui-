@@ -6,13 +6,21 @@ Stackoverflow is a question answering platform, this is where someones asks a qu
 
 
 **Features**
+
  user signup
+ 
  userlogin
+ 
  post a question
+ 
  answer a question
+ 
  downvote and upvote a question
+ 
  view number and author of questions
+ 
  view number and authors of an answer to a question
+ 
  
  API end points
 
