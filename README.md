@@ -22,18 +22,18 @@ Stackoverflow is a question answering platform, this is where someones asks a qu
  view number and authors of an answer to a question
  
  
- API end points
+ **API end points**
 
 GET /api/v1/questions
 GET /api/v1/questions/<questionId>
 POST /api/v1/questions/<questionId>/answers
 POST /api/v1/users/questions
 
-Getting Started
+**Getting Started**
 
 These instructions will enable you to run the project on your local machine.
 
-Prerequisites
+**Prerequisites**
 
 Below are the things you need to get the project up and running.
 
