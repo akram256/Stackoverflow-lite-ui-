@@ -120,10 +120,13 @@ div.login-section p.down{
 	margin-left: 40px;
 	overflow: auto;
 	padding: 10px;
+	padding-bottom: 0px;
+	margin-bottom: 0px; 
 }
 
 div.login-section p.down a{
 	text-decoration:none;
+	color: white;
 }
 
 div.login-section p.down a.lft{
