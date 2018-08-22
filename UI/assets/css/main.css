@@ -131,10 +131,12 @@ div.login-section p.down a{
 
 div.login-section p.down a.lft{
 	float: left;
+	color: white;
 }
 
 div.login-section p.down a.rgt{
 	float: right;
+	color: white;
 }
 
 /*--------------------------------------------------*/
